@@ -32,4 +32,4 @@ git clone https://github.com/vsvum/Guardian-of-Truth.git
 cd Guardian-of-Truth
 
 # Установить зависимости
-pip install rich
+pip install -r requirements.txt
